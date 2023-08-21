@@ -1,0 +1,648 @@
+{
+    "assembling-machine-1-2x": {
+  
+    },
+    "assembling-machine-2-2x": {
+  
+    },
+    "assembling-machine-3-2x": {
+  
+    },
+    "oil-refinery-2x": {
+  
+    },
+    "chemical-plant-2x": {
+  
+    },
+    "centrifuge-2x": {
+  
+    },
+    "burner-assembling-machine-2x": {
+  
+    },
+    "fuel-processor-2x": {
+  
+    },
+    "industrial-furnace-2x": {
+      "before": {
+        "fbc": {
+          "c": 8,
+          "north": {
+            "1": {
+              "1": -1,
+              "2": -3
+            },
+            "2": {
+              "1": 1,
+              "2": -3
+            }
+          },
+          "east": {
+            "1": {
+              "1": 3,
+              "2": -1
+            },
+            "2": {
+              "1": 3,
+              "2": 1
+            }
+          },
+          "south": {
+            "1": {
+              "1": -1,
+              "2": 3
+            },
+            "2": {
+              "1": 1,
+              "2": 3
+            }
+          },
+          "west": {
+            "1": {
+              "1": -3,
+              "2": -1
+            },
+            "2": {
+              "1": -3,
+              "2": 1
+            }
+          },
+          "northern": 2,
+          "eastern": 2,
+          "southern": 2,
+          "western": 2,
+          "northsingle": 2,
+          "eastsingle": 2,
+          "southsingle": 2,
+          "westsingle": 2
+        },
+        "bbox": {
+          "1": {
+            "1": -2.3,
+            "2": -2.3
+          },
+          "2": {
+            "1": 2.3,
+            "2": 2.3
+          }
+        },
+        "bbsize": {
+          "1": 5,
+          "2": 5,
+          "x": 5,
+          "y": 5
+        },
+        "bbpipe": {
+          "1": 5,
+          "2": 5,
+          "x": 5,
+          "y": 5
+        },
+        "bbmax": 5,
+        "pipemax": 5
+      },
+      "after": {
+        "fbc": {
+          "c": 8,
+          "north": {
+            "1": {
+              "1": -1.5,
+              "2": -5.5,
+              "x": -1.5,
+              "y": -5.5
+            },
+            "2": {
+              "1": 2.5,
+              "2": -5.5,
+              "x": 2.5,
+              "y": -5.5
+            }
+          },
+          "east": {
+            "1": {
+              "1": 5.5,
+              "2": -2.5,
+              "x": 5.5,
+              "y": -2.5
+            },
+            "2": {
+              "1": 5.5,
+              "2": 1.5,
+              "x": 5.5,
+              "y": 1.5
+            }
+          },
+          "south": {
+            "1": {
+              "1": -1.5,
+              "2": 5.5,
+              "x": -1.5,
+              "y": 5.5
+            },
+            "2": {
+              "1": 2.5,
+              "2": 5.5,
+              "x": 2.5,
+              "y": 5.5
+            }
+          },
+          "west": {
+            "1": {
+              "1": -5.5,
+              "2": -2.5,
+              "x": -5.5,
+              "y": -2.5
+            },
+            "2": {
+              "1": -5.5,
+              "2": 1.5,
+              "x": -5.5,
+              "y": 1.5
+            }
+          },
+          "northern": 2,
+          "eastern": 2,
+          "southern": 2,
+          "western": 2,
+          "northsingle": 2,
+          "eastsingle": 2,
+          "southsingle": 2,
+          "westsingle": 2
+        },
+        "bbox": {
+          "1": {
+            "1": -4.6,
+            "2": -4.6,
+            "x": -4.6,
+            "y": -4.6
+          },
+          "2": {
+            "1": 4.6,
+            "2": 4.6,
+            "x": 4.6,
+            "y": 4.6
+          }
+        },
+        "bbsize": {
+          "1": 9.5,
+          "2": 9.5,
+          "x": 9.5,
+          "y": 9.5
+        },
+        "bbpipe": {
+          "1": 9.5,
+          "2": 9.5,
+          "x": 9.5,
+          "y": 9.5
+        },
+        "bbmax": 10,
+        "pipemax": 10
+      }
+    },
+    "se-casting-machine-2x": {
+  
+    },
+    "se-fuel-refinery-2x": {
+  
+    },
+    "se-pulveriser-2x": {
+  
+    },
+    "se-space-assembling-machine-2x": {
+  
+    },
+    "se-space-astrometrics-laboratory-2x": {
+  
+    },
+    "se-space-biochemical-laboratory-2x": {
+  
+    },
+    "se-space-electromagnetics-laboratory-2x": {
+  
+    },
+    "se-space-decontamination-facility-2x": {
+  
+    },
+    "se-space-genetics-laboratory-2x": {
+  
+    },
+    "se-space-gravimetrics-laboratory-2x": {
+  
+    },
+    "se-space-growth-facility-2x": {
+  
+    },
+    "se-space-hypercooler-2x": {
+  
+    },
+    "se-space-laser-laboratory-2x": {
+  
+    },
+    "se-lifesupport-facility-2x": {
+  
+    },
+    "se-space-manufactory-2x": {
+  
+    },
+    "se-space-material-fabricator-2x": {
+  
+    },
+    "se-space-mechanical-laboratory-2x": {
+  
+    },
+    "se-space-particle-accelerator-2x": {
+  
+    },
+    "se-space-particle-collider-2x": {
+  
+    },
+    "se-space-plasma-generator-2x": {
+  
+    },
+    "se-space-radiation-laboratory-2x": {
+  
+    },
+    "se-space-radiator-2x": {
+  
+    },
+    "se-space-radiator-2-2x": {
+  
+    },
+    "se-recycling-facility-2x": {
+  
+    },
+    "se-space-supercomputer-1-2x": {
+  
+    },
+    "se-space-supercomputer-2-2x": {
+  
+    },
+    "se-space-supercomputer-3-2x": {
+  
+    },
+    "se-space-supercomputer-4-2x": {
+  
+    },
+    "se-space-telescope-2x": {
+  
+    },
+    "se-space-telescope-xray-2x": {
+  
+    },
+    "se-space-telescope-gammaray-2x": {
+  
+    },
+    "se-space-telescope-microwave-2x": {
+  
+    },
+    "se-space-telescope-radio-2x": {
+  
+    },
+    "se-space-thermodynamics-laboratory-2x": {
+  
+    },
+    "se-delivery-cannon-2x": {
+  
+    },
+    "se-delivery-cannon-weapon-2x": {
+  
+    },
+    "se-electric-boiler-2x": {
+  
+    },
+    "se-energy-transmitter-emitter-2x": {
+  
+    },
+    "se-energy-transmitter-injector-2x": {
+  
+    },
+    "se-nexus-2x": {
+  
+    },
+    "se-space-elevator-2x": {
+  
+    },
+    "assembling-machine-1-3x": {
+  
+    },
+    "assembling-machine-2-3x": {
+  
+    },
+    "assembling-machine-3-3x": {
+  
+    },
+    "oil-refinery-3x": {
+  
+    },
+    "chemical-plant-3x": {
+  
+    },
+    "centrifuge-3x": {
+  
+    },
+    "burner-assembling-machine-3x": {
+  
+    },
+    "fuel-processor-3x": {
+  
+    },
+    "industrial-furnace-3x": {
+      "before": {
+        "fbc": {
+          "c": 8,
+          "north": {
+            "1": {
+              "1": -1,
+              "2": -3
+            },
+            "2": {
+              "1": 1,
+              "2": -3
+            }
+          },
+          "east": {
+            "1": {
+              "1": 3,
+              "2": -1
+            },
+            "2": {
+              "1": 3,
+              "2": 1
+            }
+          },
+          "south": {
+            "1": {
+              "1": -1,
+              "2": 3
+            },
+            "2": {
+              "1": 1,
+              "2": 3
+            }
+          },
+          "west": {
+            "1": {
+              "1": -3,
+              "2": -1
+            },
+            "2": {
+              "1": -3,
+              "2": 1
+            }
+          },
+          "northern": 2,
+          "eastern": 2,
+          "southern": 2,
+          "western": 2,
+          "northsingle": 2,
+          "eastsingle": 2,
+          "southsingle": 2,
+          "westsingle": 2
+        },
+        "bbox": {
+          "1": {
+            "1": -2.3,
+            "2": -2.3
+          },
+          "2": {
+            "1": 2.3,
+            "2": 2.3
+          }
+        },
+        "bbsize": {
+          "1": 5,
+          "2": 5,
+          "x": 5,
+          "y": 5
+        },
+        "bbpipe": {
+          "1": 5,
+          "2": 5,
+          "x": 5,
+          "y": 5
+        },
+        "bbmax": 5,
+        "pipemax": 5
+      },
+      "after": {
+        "fbc": {
+          "c": 8,
+          "north": {
+            "1": {
+              "1": -2,
+              "2": -8,
+              "x": -2,
+              "y": -8
+            },
+            "2": {
+              "1": 4,
+              "2": -8,
+              "x": 4,
+              "y": -8
+            }
+          },
+          "east": {
+            "1": {
+              "1": 8,
+              "2": -4,
+              "x": 8,
+              "y": -4
+            },
+            "2": {
+              "1": 8,
+              "2": 2,
+              "x": 8,
+              "y": 2
+            }
+          },
+          "south": {
+            "1": {
+              "1": -2,
+              "2": 8,
+              "x": -2,
+              "y": 8
+            },
+            "2": {
+              "1": 4,
+              "2": 8,
+              "x": 4,
+              "y": 8
+            }
+          },
+          "west": {
+            "1": {
+              "1": -8,
+              "2": -4,
+              "x": -8,
+              "y": -4
+            },
+            "2": {
+              "1": -8,
+              "2": 2,
+              "x": -8,
+              "y": 2
+            }
+          },
+          "northern": 2,
+          "eastern": 2,
+          "southern": 2,
+          "western": 2,
+          "northsingle": 2,
+          "eastsingle": 2,
+          "southsingle": 2,
+          "westsingle": 2
+        },
+        "bbox": {
+          "1": {
+            "1": -6.9,
+            "2": -6.9,
+            "x": -6.9,
+            "y": -6.9
+          },
+          "2": {
+            "1": 6.9,
+            "2": 6.9,
+            "x": 6.9,
+            "y": 6.9
+          }
+        },
+        "bbsize": {
+          "1": 14,
+          "2": 14,
+          "x": 14,
+          "y": 14
+        },
+        "bbpipe": {
+          "1": 14,
+          "2": 14,
+          "x": 14,
+          "y": 14
+        },
+        "bbmax": 14,
+        "pipemax": 14
+      }
+    },
+    "se-casting-machine-3x": {
+  
+    },
+    "se-fuel-refinery-3x": {
+  
+    },
+    "se-pulveriser-3x": {
+  
+    },
+    "se-space-assembling-machine-3x": {
+  
+    },
+    "se-space-astrometrics-laboratory-3x": {
+  
+    },
+    "se-space-biochemical-laboratory-3x": {
+  
+    },
+    "se-space-electromagnetics-laboratory-3x": {
+  
+    },
+    "se-space-decontamination-facility-3x": {
+  
+    },
+    "se-space-genetics-laboratory-3x": {
+  
+    },
+    "se-space-gravimetrics-laboratory-3x": {
+  
+    },
+    "se-space-growth-facility-3x": {
+  
+    },
+    "se-space-hypercooler-3x": {
+  
+    },
+    "se-space-laser-laboratory-3x": {
+  
+    },
+    "se-lifesupport-facility-3x": {
+  
+    },
+    "se-space-manufactory-3x": {
+  
+    },
+    "se-space-material-fabricator-3x": {
+  
+    },
+    "se-space-mechanical-laboratory-3x": {
+  
+    },
+    "se-space-particle-accelerator-3x": {
+  
+    },
+    "se-space-particle-collider-3x": {
+  
+    },
+    "se-space-plasma-generator-3x": {
+  
+    },
+    "se-space-radiation-laboratory-3x": {
+  
+    },
+    "se-space-radiator-3x": {
+  
+    },
+    "se-space-radiator-2-3x": {
+  
+    },
+    "se-recycling-facility-3x": {
+  
+    },
+    "se-space-supercomputer-1-3x": {
+  
+    },
+    "se-space-supercomputer-2-3x": {
+  
+    },
+    "se-space-supercomputer-3-3x": {
+  
+    },
+    "se-space-supercomputer-4-3x": {
+  
+    },
+    "se-space-telescope-3x": {
+  
+    },
+    "se-space-telescope-xray-3x": {
+  
+    },
+    "se-space-telescope-gammaray-3x": {
+  
+    },
+    "se-space-telescope-microwave-3x": {
+  
+    },
+    "se-space-telescope-radio-3x": {
+  
+    },
+    "se-space-thermodynamics-laboratory-3x": {
+  
+    },
+    "se-delivery-cannon-3x": {
+  
+    },
+    "se-delivery-cannon-weapon-3x": {
+  
+    },
+    "se-electric-boiler-3x": {
+  
+    },
+    "se-energy-transmitter-emitter-3x": {
+  
+    },
+    "se-energy-transmitter-injector-3x": {
+  
+    },
+    "se-nexus-3x": {
+  
+    },
+    "se-space-elevator-3x": {
+  
+    }
+  }
